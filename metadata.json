@@ -1,0 +1,6 @@
+{
+  "name": "HealthGuard AI",
+  "description": "Remote Patient Monitoring & AI Clinical Intelligence Platform with 3D Vitals Analytics and Real-time Alerting",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
