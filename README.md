@@ -11,8 +11,7 @@
 >
 > **Repository:** [https://github.com/Phantom-dcode/HealthgaurdAI](https://github.com/Phantom-dcode/HealthgaurdAI)
 >
-> **Live Web Application Links:**
-> - 🌐 **Development App URL**: [https://ais-dev-7dbltetvl7srzfgyfaj6jr-121615617305.asia-east1.run.app](https://ais-dev-7dbltetvl7srzfgyfaj6jr-121615617305.asia-east1.run.app)
+>🌐 **Live Web Application Links:**
 > - 🚀 **Shared Preview App URL**: [https://ais-pre-7dbltetvl7srzfgyfaj6jr-121615617305.asia-east1.run.app](https://ais-pre-7dbltetvl7srzfgyfaj6jr-121615617305.asia-east1.run.app)
 
 ---
